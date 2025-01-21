@@ -1,13 +1,14 @@
+/* Основні стилі для body */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif; /* Основний текстовий шрифт */
   color: #434455; /* Основний колір тексту */
-  background-color: #FFFFFF; /* Білий фон */
-  margin: 0;
-  padding: 0;
+  background-color: #ffffff; /* Білий фон */
 }
-h1, h2, h3 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 700;
+
+/* Заголовки - шрифт Raleway */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif; /* Шрифт для заголовків */
+  font-weight: 700; /* Вага для заголовків */
 }
 /* Базовий стиль для хедера */
 .header {
