@@ -1,3 +1,14 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455; /* Основний колір тексту */
+  background-color: #FFFFFF; /* Білий фон */
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
 /* Базовий стиль для хедера */
 .header {
   width: 100%;
